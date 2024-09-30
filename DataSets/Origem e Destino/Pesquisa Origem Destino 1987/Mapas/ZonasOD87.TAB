@@ -1,0 +1,8 @@
+!table
+!version 100
+FIELDS: 5
+    Zona Integer Index 1
+    Nome Char (30)
+    Macro Integer
+    Utc Integer
+    Area Decimal (8, 2) Index 2

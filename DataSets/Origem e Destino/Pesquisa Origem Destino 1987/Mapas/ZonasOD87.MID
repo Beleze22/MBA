@@ -1,0 +1,254 @@
+1,"Se",1,1,35,"São Paulo",340.00
+2,"Bras",1,2,35,"São Paulo",193.00
+3,"Tabatinguera",1,3,35,"São Paulo",37.00
+4,"Glicerio",1,4,35,"São Paulo",92.00
+5,"Liberdade",1,5,35,"São Paulo",110.00
+6,"Bexiga",1,6,35,"São Paulo",138.00
+7,"Consolacao",1,1,35,"São Paulo",55.00
+8,"Santa Cecilia",1,7,35,"São Paulo",37.00
+9,"Campos Eliseos",1,8,35,"São Paulo",110.00
+10,"Bom Retiro",1,9,35,"São Paulo",184.00
+11,"Ponte Pequena",1,10,35,"São Paulo",147.00
+12,"Pari",1,11,35,"São Paulo",285.00
+13,"Bresser",1,12,35,"São Paulo",230.00
+14,"Mooca",1,13,35,"São Paulo",276.00
+15,"Cambuci",1,14,35,"São Paulo",377.00
+16,"Aclimacao",1,15,35,"São Paulo",193.00
+17,"Gloria",1,16,35,"São Paulo",423.00
+18,"Paraiso",1,17,35,"São Paulo",442.00
+19,"Paulista",1,18,35,"São Paulo",212.00
+20,"Alamedas",1,19,35,"São Paulo",221.00
+21,"Pacaembu",1,20,35,"São Paulo",230.00
+22,"Veiga Filho",1,7,35,"São Paulo",120.00
+23,"Brigadeiro Galvao",1,21,35,"São Paulo",101.00
+24,"Sumare",6,22,35,"São Paulo",764.00
+25,"Barra Funda",6,23,35,"São Paulo",414.00
+26,"Casa Verde",2,24,35,"São Paulo",451.00
+27,"Santana",2,25,35,"São Paulo",322.00
+28,"Vila Guilherme",2,26,35,"São Paulo",800.00
+29,"Vila Maria",2,27,35,"São Paulo",230.00
+30,"Belenzinho",3,28,35,"São Paulo",423.00
+31,"Quarta-Parada",3,29,35,"São Paulo",442.00
+32,"Alto da Mooca",3,30,35,"São Paulo",497.00
+33,"Ipiranga",4,31,35,"São Paulo",800.00
+34,"Saude",4,32,35,"São Paulo",1260.00
+35,"Indianopolis",5,33,35,"São Paulo",810.00
+36,"Itaim I",5,33,35,"São Paulo",240.00
+37,"Jardins I",5,19,35,"São Paulo",340.00
+38,"Clinicas",1,34,35,"São Paulo",212.00
+39,"Vila Madalena",6,35,35,"São Paulo",350.00
+40,"Cerro Cora",6,36,35,"São Paulo",230.00
+41,"Pompeia",6,37,35,"São Paulo",322.00
+42,"Agua Branca",6,38,35,"São Paulo",423.00
+43,"Freguesia do O",2,39,35,"São Paulo",552.00
+44,"Limao",2,40,35,"São Paulo",543.00
+45,"Mandaqui",2,41,35,"São Paulo",1242.00
+46,"Agua Fria",2,42,35,"São Paulo",607.00
+47,"Tucuruvi - Jacana",8,43,35,"São Paulo",865.00
+48,"Vila Medeiros",8,44,35,"São Paulo",874.00
+49,"Vila Maria Alta",2,45,35,"São Paulo",414.00
+50,"Novo Mundo",2,46,35,"São Paulo",570.00
+51,"Parque Sao Jorge",3,47,35,"São Paulo",451.00
+52,"Tatuape",3,48,35,"São Paulo",690.00
+53,"Vila Diva I",3,29,35,"São Paulo",340.00
+54,"Tamanduatei",4,49,35,"São Paulo",810.00
+55,"Sao Joao Climaco",4,50,35,"São Paulo",1334.00
+56,"Sao Judas",4,51,35,"São Paulo",543.00
+57,"Jabaquara/Americanopolis",4,52,35,"São Paulo",1076.00
+58,"Aeroporto",4,53,35,"São Paulo",791.00
+59,"Campo Belo",5,54,35,"São Paulo",837.00
+60,"Moncoes",5,54,35,"São Paulo",322.00
+61,"Vila Olimpia",5,33,35,"São Paulo",175.00
+62,"Iguatemi",5,55,35,"São Paulo",175.00
+63,"Pinheiros",5,56,35,"São Paulo",276.00
+64,"Estrada da Boiada",6,57,35,"São Paulo",598.00
+65,"Alto da Lapa",6,58,35,"São Paulo",368.00
+66,"Vila Anastacio",6,58,35,"São Paulo",212.00
+67,"Ceasa",6,58,35,"São Paulo",506.00
+68,"Vila Jaguare",7,59,35,"São Paulo",1610.00
+69,"Pirituba",7,59,35,"São Paulo",1132.00
+70,"Jaragua",7,60,35,"São Paulo",1417.00
+71,"Brasilandia",8,61,35,"São Paulo",1343.00
+72,"V.Nova Cachoeirinha I",8,61,35,"São Paulo",506.00
+73,"Estrada da Parada",8,61,35,"São Paulo",561.00
+74,"Jardim Peri",8,41,35,"São Paulo",552.00
+75,"Barro Branco",8,42,35,"São Paulo",644.00
+76,"Tremembe",8,62,35,"São Paulo",1214.00
+77,"Cangaiba",3,63,35,"São Paulo",1067.00
+78,"Penha",3,64,35,"São Paulo",294.00
+79,"Vila Esperanca",3,65,35,"São Paulo",460.00
+80,"Carrao",3,66,35,"São Paulo",644.00
+81,"Vila Matilde",3,67,35,"São Paulo",515.00
+82,"Vila Formosa",3,68,35,"São Paulo",883.00
+83,"Vila Prudente",3,69,35,"São Paulo",1518.00
+84,"Ermelindo Matarazzo",10,70,35,"São Paulo",1527.00
+85,"Vila Re",10,71,35,"São Paulo",1362.00
+86,"Artur Alvim",3,72,35,"São Paulo",672.00
+87,"Lider",3,73,35,"São Paulo",920.00
+88,"Cidade Centenario",3,74,35,"São Paulo",607.00
+89,"Sapopemba",3,75,35,"São Paulo",1334.00
+90,"Sao Miguel",10,76,35,"São Paulo",580.00
+91,"Saudade",10,77,35,"São Paulo",1076.00
+92,"Itaquera",10,78,35,"São Paulo",1049.00
+93,"Carmo",10,78,35,"São Paulo",1840.00
+94,"Sao Mateus",10,75,35,"São Paulo",2162.00
+95,"Parque Paulistano",10,79,35,"São Paulo",1003.00
+96,"Vila Curuca",10,80,35,"São Paulo",1288.00
+97,"Itaim Paulista",10,81,35,"São Paulo",1196.00
+98,"Parada Quinze",10,82,35,"São Paulo",1297.00
+99,"Guaianazes I",10,83,35,"São Paulo",736.00
+100,"Passagem Funda",10,83,35,"São Paulo",4380.00
+101,"Sete Praias",14,52,35,"São Paulo",1003.00
+102,"Pedreira",14,52,35,"São Paulo",920.00
+103,"Cupece",14,84,35,"São Paulo",690.00
+104,"Campo Grande",14,85,35,"São Paulo",976.00
+105,"Granja Julieta",14,86,35,"São Paulo",856.00
+106,"Largo Treze",14,87,35,"São Paulo",451.00
+107,"Paraisopolis",14,88,35,"São Paulo",414.00
+108,"Interlagos",14,90,35,"São Paulo",3468.00
+109,"Largo do Socorro",14,91,35,"São Paulo",313.00
+110,"Campo Limpo I",14,88,35,"São Paulo",1251.00
+111,"Parelheiros",14,92,35,"São Paulo",8326.00
+112,"Guarapiranga",14,91,35,"São Paulo",2070.00
+113,"Pirajussara",14,91,35,"São Paulo",1371.00
+114,"Cidade Jardim",5,93,35,"São Paulo",1067.00
+115,"Jaguare",16,94,35,"São Paulo",644.00
+116,"Estrada do Embu",15,95,35,"São Paulo",1610.00
+117,"Rio Pequeno",15,93,35,"São Paulo",1122.00
+118,"Arpoador",15,96,35,"São Paulo",1214.00
+119,"Perus",7,97,35,"São Paulo",1067.00
+120,"Cajamar",7,144,5,"Cajamar",4379.00
+121,"Caieiras",7,98,4,"Caieiras",2742.00
+122,"Franco da Rocha",7,99,13,"Franco da Rocha",5124.00
+123,"Francisco Morato",7,145,12,"Francisco Morato",2604.00
+124,"Mairipora",8,146,21,"Mairiporã",6026.00
+125,"Morros",9,100,15,"Guarulhos",3965.00
+126,"Timoteo Penteado",9,101,15,"Guarulhos",1288.00
+127,"Macedo",9,100,15,"Guarulhos",994.00
+128,"Guarulhos",9,102,15,"Guarulhos",120.00
+129,"Varzea do Palacio",9,103,15,"Guarulhos",1316.00
+130,"Estrada de Nazare",9,104,15,"Guarulhos",7112.00
+131,"Cumbica-Pimentas",9,105,15,"Guarulhos",5787.00
+132,"Aruja",9,106,1,"Arujá",2456.00
+133,"Sta Isabel",9,147,30,"Santa Isabel",3588.00
+134,"Corredor-Itaqua",11,107,18,"Itaquaquecetuba",3588.00
+135,"Itaquaquecetuba",11,107,18,"Itaquaquecetuba",1113.00
+136,"Porto de Areia",11,107,18,"Itaquaquecetuba",2576.00
+137,"Ferraz de Vasconcelos",11,108,11,"Ferraz de Vasconcelos",1840.00
+138,"Poa",11,109,26,"Poá",1279.00
+139,"Suzano",11,110,36,"Suzano",5943.00
+140,"Jundiapeba",11,111,23,"Mogi das Cruzes",2089.00
+141,"Bras Cubas",11,112,23,"Mogi das Cruzes",1950.00
+142,"Mogi das Cruzes",11,113,23,"Mogi das Cruzes",2742.00
+143,"Cocuera",11,113,23,"Mogi das Cruzes",3450.00
+144,"Cesar de Souza",11,114,23,"Mogi das Cruzes",2935.00
+145,"Sabauna",11,114,23,"Mogi das Cruzes",3680.00
+146,"Guararema",11,148,14,"Guararema",26652.00
+147,"Biritiba Mirim",11,149,3,"Biritiba Mirim",31574.00
+148,"Salesopolis",11,150,29,"Salesopólis",41520.00
+149,"Capuava",12,115,22,"Mauá",2935.00
+150,"Maua",12,115,22,"Mauá",442.00
+151,"Corrego da Serraria",12,115,22,"Mauá",1564.00
+152,"Ribeirao Pires",12,116,27,"Ribeirão Pires",2254.00
+153,"Rio Grande da Serra",12,117,28,"Rio Grande da Serra",1647.00
+154,"Parque das Nacoes",12,118,32,"Santo André",1113.00
+155,"Utinga",12,119,32,"Santo André",883.00
+156,"Palmares",12,120,32,"Santo André",754.00
+157,"Santo Andre",12,121,32,"Santo André",810.00
+158,"Vila Pires",12,122,32,"Santo André",1711.00
+159,"Vila Luzita",12,123,32,"Santo André",1490.00
+160,"Sao Caetano",12,124,34,"São Caetano do Sul",810.00
+161,"Vila Gerti",12,124,34,"São Caetano do Sul",892.00
+162,"Rudge Ramos",13,125,33,"São Bernardo do Campo",1352.00
+163,"Anchieta",13,126,33,"São Bernardo do Campo",902.00
+164,"Sao Bernardo do Campo",13,127,33,"São Bernardo do Campo",994.00
+165,"Demarchi",13,128,33,"São Bernardo do Campo",3478.00
+166,"Riacho Grande",13,128,33,"São Bernardo do Campo",10092.00
+167,"Piraporinha",13,129,8,"Diadema",874.00
+168,"Diadema",13,129,8,"Diadema",1444.00
+169,"Eldorado",13,129,8,"Diadema",902.00
+170,"Embu-Guacu",14,130,10,"Embu-Guacu",4370.00
+171,"Cipo",14,151,10,"Embu-Guacu",1739.00
+172,"Taboao da Serra",15,131,37,"Taboão da Serra",2070.00
+173,"Embu",15,132,9,"Embu",3763.00
+174,"Itapecerica",15,133,16,"Itapecerica da Serra",6578.00
+175,"Embu-mirim",15,133,16,"Itapecerica da Serra",7544.00
+176,"Juquitiba",15,152,20,"Juquitiba",51253.00
+177,"Granja Viana",15,134,7,"Cotia",1730.00
+178,"Cotia",15,134,7,"Cotia",9430.00
+179,"Capueira",15,153,7,"Cotia",2180.00
+180,"Caucaia do Alto",15,153,7,"Cotia",7535.00
+181,"Vargem Grande Paulista",15,154,38,"Vargem Grande Paulista",3312.00
+182,"Bussocaba",16,135,24,"Osasco",920.00
+183,"Osasco",16,136,24,"Osasco",340.00
+184,"Mutinga",16,137,24,"Osasco",736.00
+185,"Quitauna",16,135,24,"Osasco",1647.00
+186,"Jardim Helena Maria",16,138,24,"Osasco",1463.00
+187,"Aldeia de Carapicuiba",16,139,6,"Carapicuíba",1371.00
+188,"Vila Dirce",16,139,6,"Carapicuíba",653.00
+189,"Carapicuiba",16,140,6,"Carapicuíba",1408.00
+190,"Tambore",16,141,2,"Barueri",2300.00
+191,"Barueri",16,141,2,"Barueri",3211.00
+192,"Jandira",16,142,19,"Jandira",892.00
+193,"Itapevi",16,143,17,"Itapevi",6118.00
+194,"Santana do Parnaiba",16,155,31,"Santana de Parnaíba",18060.00
+195,"Pirapora Bom Jesus",16,156,25,"Pirapora Bom Jesus",10902.00
+196,"Itaim II",5,19,35,"São Paulo",175.00
+197,"Jardins II",5,33,35,"São Paulo",46.00
+198,"Vila Diva II",3,69,35,"São Paulo",129.00
+199,"Vila Diva III",3,30,35,"São Paulo",129.00
+200,"V.Nova Cachoeirinha II",8,40,35,"São Paulo",101.00
+201,"Pedra Branca",8,62,35,"São Paulo",92.00
+202,"Guaianazes II",10,82,35,"São Paulo",92.00
+203,"Morumbi",5,89,35,"São Paulo",506.00
+204,"Campo Limpo II",14,91,35,"São Paulo",644.00
+205,"Campo de Marte/Anhembi",2,25,35,"São Paulo",294.00
+206,"Pq. Ibirapuera",5,17,35,"São Paulo",175.00
+207,"Pq. do Estado",4,52,35,"São Paulo",515.00
+208,"Cogonhas",4,53,35,"São Paulo",175.00
+209,"Horto Florestal",8,62,35,"São Paulo",322.00
+210,"USP",5,93,35,"São Paulo",534.00
+211,"Pico Jaragua",7,60,35,"São Paulo",607.00
+212,"Aeroporto de Cumbica",9,104,15,"Guarulhos",1380.00
+213,"Anhaguera",7,157,35,"São Paulo",3772.00
+214,"Parada de Taipas",7,158,35,"São Paulo",2134.00
+215,"Cantareira",8,159,35,"São Paulo",5814.00
+216,"Eng. Marsilac",14,160,35,"São Paulo",33166.00
+217,"Baronesa",14,161,35,"São Paulo",2300.00
+218,"Jaceguava",14,162,35,"São Paulo",2990.00
+219,"Morro do Mateus",7,163,5,"Cajamar",8492.00
+220,"Monjolinho",7,164,4,"Caieiras",3993.00
+221,"Santa Ines",7,165,4,"Caieiras",2972.00
+222,"Cristais",7,166,13,"Franco da Rocha",5750.00
+223,"Campo de Sao Benedito",7,167,13,"Franco da Rocha",2760.00
+224,"Sete Voltas",7,168,12,"Francisco Morato",294.00
+225,"Cascatas",7,169,12,"Francisco Morato",1812.00
+226,"Represa do Juqueri",8,170,21,"Mairiporã",10736.00
+227,"Pirucai",8,171,21,"Mairiporã",14794.00
+228,"Cabucu",9,172,15,"Guarulhos",3358.00
+229,"Morro Grande",9,173,15,"Guarulhos",6477.00
+230,"Fazenda Velha",9,174,1,"Arujá",4582.00
+231,"Estradas dos Indios",9,175,1,"Arujá",2456.00
+232,"Reservatorio do Jaguari",9,176,30,"Santa Isabel",33874.00
+233,"Jardim Joseli",11,177,18,"Itaquaquecetuba",902.00
+234,"Guaiu",11,178,11,"Ferraz de Vasconcelos",1224.00
+235,"Jardim Sao Jose",11,179,26,"Poá",460.00
+236,"Palmeiras",11,180,36,"Suzano",13386.00
+237,"Itapeti",11,181,23,"Mogi das Cruzes",20856.00
+238,"Taiacupeba",11,182,23,"Mogi das Cruzes",34224.00
+239,"Vila Aparecida",12,183,22,"Mauá",1196.00
+240,"Pilar Velho",12,184,27,"Ribeirão Pires",4683.00
+241,"Jardim Cacula",12,185,27,"Ribeirão Pires",3027.00
+242,"Sete Pontes",12,186,28,"Rio Grande da Serra",1739.00
+243,"Parque America",12,187,28,"Rio Grande da Serra",580.00
+244,"Paranapiacaba",12,188,32,"Santo André",10525.00
+245,"Caminho do Mar",13,189,33,"São Bernardo do Campo",23718.00
+246,"Itarare",14,190,10,"Embu-Guacu",9568.00
+247,"Ressaca",15,191,9,"Embu",3358.00
+248,"Sao Lourenco",15,192,16,"Itapecerica da Serra",19228.00
+249,"Reserva de Caucaia",15,193,7,"Cotia",11408.00
+250,"Jardim das Flores",16,194,24,"Osasco",506.00
+251,"Tres Montanhas",16,195,24,"Osasco",819.00
+252,"Jardim Beval",16,196,2,"Barueri",1076.00
+253,"Ribeirao das Pombas",16,197,19,"Jandira",828.00
+254,"Quatro Encruziliadas",16,198,17,"Itapevi",3119.00

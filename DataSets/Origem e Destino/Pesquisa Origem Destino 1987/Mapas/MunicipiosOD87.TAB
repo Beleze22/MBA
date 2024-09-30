@@ -1,0 +1,16 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 3
+    Municipio1987 Integer Index 1 ;
+    NomeMunicipio Char (40) ;
+    Area_ha Decimal (11, 2) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "c071da71-f955-4f7c-bac7-ca087f002195"
+"\MapInfo\ParentTableID" = "8be29b79-e73e-42e6-8277-680273cbe713"
+end_metadata
